@@ -1,0 +1,3 @@
+=== Training Results ===
+WITHOUT Attention: loss=1.7666  acc=0.0283  time=77.9s
+WITH    Attention: loss=2.2148  acc=0.0100  time=107.3s
